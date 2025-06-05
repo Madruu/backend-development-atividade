@@ -37,6 +37,8 @@ export const createUser = async ({ name, email, passwordHash, role, preferences 
 };
 
 export const updateUser = async (id, updateData) => {
+  console.log('UpdateUser - id:', id);
+  console.log('UpdateUser - updateData:', updateData);
   try {
     const user = await User.findByIdAndUpdate(id, updateData, {
       new: true, // retorna o documento atualizado
