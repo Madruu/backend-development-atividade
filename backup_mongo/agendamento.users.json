@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "683118bfd48ae1fa7c9ea0af"
+  },
+  "name": "Gustavo",
+  "email": "guseveriano@email.com",
+  "passwordHash": "password",
+  "role": "user",
+  "preferences": {
+    "language": "pt-BR",
+    "_id": {
+      "$oid": "683118bfd48ae1fa7c9ea0b0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-05-24T00:54:23.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:54:23.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68311968e7a74d4b985ffcfa"
+  },
+  "name": "Gustavo",
+  "email": "guseveriano@email.com",
+  "passwordHash": "password",
+  "role": "user",
+  "preferences": {
+    "language": "pt-BR",
+    "_id": {
+      "$oid": "68311968e7a74d4b985ffcfb"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683119bee87fe6329b3c0ead"
+  },
+  "name": "Gustavo",
+  "email": "guseveriano@email.com",
+  "passwordHash": "password",
+  "role": "user",
+  "preferences": {
+    "language": "pt-BR",
+    "_id": {
+      "$oid": "683119bee87fe6329b3c0eae"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68311fcdf9c4c6162ee7c76a"
+  },
+  "name": "Gustavo",
+  "email": "guseveriano@email.com",
+  "passwordHash": "password",
+  "role": "user",
+  "preferences": {
+    "language": "pt-BR",
+    "_id": {
+      "$oid": "68311fcdf9c4c6162ee7c76b"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841ee67efc5e522c950c5bb"
+  },
+  "name": "kcvbkjh",
+  "email": "dd@@klsjdfng.com",
+  "passwordHash": "dddd",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-06-05T19:22:15.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-05T19:22:15.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841f2bd2f4ebca318ecc02e"
+  },
+  "name": "calel",
+  "email": "dd@@klsjdfng.com",
+  "passwordHash": "ss",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-06-05T19:40:45.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-05T19:40:45.119Z"
+  },
+  "__v": 0
+}]

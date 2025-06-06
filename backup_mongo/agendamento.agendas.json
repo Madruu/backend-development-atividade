@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "683118bfd48ae1fa7c9ea0b2"
+  },
+  "name": "Agenda do João",
+  "ownerId": {
+    "$oid": "683118bfd48ae1fa7c9ea0af"
+  },
+  "sharedWith": [
+    {
+      "userId": {
+        "$oid": "683118bfd48ae1fa7c9ea0af"
+      },
+      "_id": {
+        "$oid": "683118bfd48ae1fa7c9ea0b3"
+      }
+    }
+  ],
+  "isTeamAgenda": false,
+  "createdAt": {
+    "$date": "2025-05-24T00:54:23.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:54:23.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68311968e7a74d4b985ffcfd"
+  },
+  "name": "Agenda do João",
+  "ownerId": {
+    "$oid": "68311968e7a74d4b985ffcfa"
+  },
+  "sharedWith": [
+    {
+      "userId": {
+        "$oid": "68311968e7a74d4b985ffcfa"
+      },
+      "_id": {
+        "$oid": "68311968e7a74d4b985ffcfe"
+      }
+    }
+  ],
+  "isTeamAgenda": false,
+  "createdAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683119bee87fe6329b3c0eb1"
+  },
+  "name": "Agenda do João",
+  "ownerId": {
+    "$oid": "683119bee87fe6329b3c0ead"
+  },
+  "sharedWith": [
+    {
+      "userId": {
+        "$oid": "683119bee87fe6329b3c0ead"
+      },
+      "_id": {
+        "$oid": "683119bee87fe6329b3c0eb2"
+      }
+    }
+  ],
+  "isTeamAgenda": false,
+  "createdAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68311fcef9c4c6162ee7c76e"
+  },
+  "name": "Agenda do João",
+  "ownerId": {
+    "$oid": "68311fcdf9c4c6162ee7c76a"
+  },
+  "sharedWith": [
+    {
+      "userId": {
+        "$oid": "68311fcdf9c4c6162ee7c76a"
+      },
+      "_id": {
+        "$oid": "68311fcef9c4c6162ee7c76f"
+      }
+    }
+  ],
+  "isTeamAgenda": false,
+  "createdAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "__v": 0
+}]

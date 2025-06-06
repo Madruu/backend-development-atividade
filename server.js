@@ -41,6 +41,6 @@ const server = http.createServer(async (req, res) => {
 mongoose.connection.once('open', () => {
   console.log('Connected to MongoDB');
   server.listen(PORT, () => {
-    console.log(`🚀 Servidor rodando na porta ${PORT}`);
+    console.log(` Servidor rodando na porta ${PORT}`);
   });
 });

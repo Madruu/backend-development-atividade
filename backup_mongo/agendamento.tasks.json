@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "68311968e7a74d4b985ffd02"
+  },
+  "title": "Enviar relatório mensal",
+  "description": "Preparar e enviar relatório de vendas",
+  "dueDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "status": "in_progress",
+  "priority": "high",
+  "assignedTo": {
+    "$oid": "68311968e7a74d4b985ffcfa"
+  },
+  "createdBy": {
+    "$oid": "68311968e7a74d4b985ffcfa"
+  },
+  "tags": [
+    "relatório",
+    "vendas"
+  ],
+  "createdAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:57:12.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683119bee87fe6329b3c0eb6"
+  },
+  "title": "Enviar relatório mensal",
+  "description": "Preparar e enviar relatório de vendas",
+  "dueDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "status": "in_progress",
+  "priority": "high",
+  "assignedTo": {
+    "$oid": "683119bee87fe6329b3c0ead"
+  },
+  "createdBy": {
+    "$oid": "683119bee87fe6329b3c0ead"
+  },
+  "tags": [
+    "relatório",
+    "vendas"
+  ],
+  "createdAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T00:58:38.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68311fcef9c4c6162ee7c773"
+  },
+  "title": "Enviar relatório mensal",
+  "description": "Preparar e enviar relatório de vendas",
+  "dueDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "status": "in_progress",
+  "priority": "high",
+  "assignedTo": {
+    "$oid": "68311fcdf9c4c6162ee7c76a"
+  },
+  "createdBy": {
+    "$oid": "68311fcdf9c4c6162ee7c76a"
+  },
+  "tags": [
+    "relatório",
+    "vendas"
+  ],
+  "createdAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T01:24:29.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e8f02983a89656a7bda3"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T18:58:56.363Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e90b793789e7d1706ca1"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T18:59:23.092Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e93a25aedd870d59eccc"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:00:10.813Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e98a4818e98992f3ebaf"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:01:30.885Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9b7cb5dfba850988f0a"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:15.551Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bacb5dfba850988f0c"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:18.837Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bbcb5dfba850988f0e"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:19.281Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bbcb5dfba850988f10"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:19.431Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bbcb5dfba850988f12"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:19.652Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bbcb5dfba850988f14"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:19.762Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bbcb5dfba850988f16"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:19.969Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bccb5dfba850988f18"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:20.145Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bccb5dfba850988f1a"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:20.232Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841e9bccb5dfba850988f1c"
+  },
+  "title": "sdf",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:02:20.408Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841ea18157f13c167d8cc75"
+  },
+  "title": "TESTES",
+  "description": "descricao",
+  "dueDate": {
+    "$date": "2025-06-05T19:03:52.801Z"
+  },
+  "status": "ATIVO",
+  "tags": [
+    "tag"
+  ],
+  "__v": 0
+}]
